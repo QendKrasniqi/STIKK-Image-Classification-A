@@ -6,6 +6,7 @@ We want to build a machine learning model, which is able to identify:
 - keyboards
 
 
+
 In `./dataset` directory there are pictures of all categories:
 
     .
